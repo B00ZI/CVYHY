@@ -147,5 +147,11 @@ img{
     padding: 20px; 
     background-color: #e5e5e5;
    }
+    .left h2{
+    width: 100%;
+    padding: 0px 10px;  
+    border-top: solid 5px  #e5e5e5;
+    margin: 25px 0px 15px;
+}
    
 }
